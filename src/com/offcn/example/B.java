@@ -4,7 +4,8 @@ public class B {
     private static  int i=3;
     public static void main(String[] args) {
 
-        System.out.println(i);
+        return "哈哈哈哈";
+        
 
     }
 }
